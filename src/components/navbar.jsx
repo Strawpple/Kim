@@ -19,12 +19,12 @@ function navbar() {
         </Nav.Link>
 
         <Nav className="me-auto">
-          <Nav.Link href="#home">Profile</Nav.Link>
-          <Nav.Link href="#features">Education</Nav.Link>
-          <Nav.Link href="#pricing">Experience</Nav.Link>
-          <Nav.Link href="#pricing">Skills</Nav.Link>
-          <Nav.Link href="#pricing">Projects</Nav.Link>
-          <Nav.Link href="#pricing">References</Nav.Link>
+          <Nav.Link href="#contact">Contact</Nav.Link>
+          <Nav.Link href="#education">Education</Nav.Link>
+          <Nav.Link href="#experience">Experience</Nav.Link>
+          <Nav.Link href="#achievements">Awards and Achievements</Nav.Link>
+          <Nav.Link href="#projects">Projects</Nav.Link>
+          <Nav.Link href="#references">References</Nav.Link>
         </Nav>
       </Container>
     </Navbar>

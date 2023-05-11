@@ -6,10 +6,10 @@ import Information from "./components/information";
 
 function App() {
   return (
-    <>
+    <div className="body">
       <Navbar />
       <Information />
-    </>
+    </div>
   );
 }
 

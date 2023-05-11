@@ -37,6 +37,9 @@
   }
 }
 
+.body{
+  height: 150rem;
+}
 
 .navbar{
   background: transparent;
@@ -44,7 +47,39 @@
 #logo{
   width: 10rem;
 }
-#profile{
-  width: 15rem;
-  height: 20rem;
+#profileImg{
+  margin-left: 30%;
+  width: 22rem;
+  height: 30rem;
+}
+.rowB{
+  margin-left: 10%;
+  margin-top: 10rem;
+}
+.rowB1{
+  margin-left: 10%;
+  margin-top: 10rem;
+}
+.rowC{
+  margin-left: 25%;
+  margin-top: 20rem;
+}
+.rowC1{
+  margin-left: 25%;
+  margin-top: 20rem;
+}
+.rowD{
+  margin-left: 25%;
+  margin-top: 30rem;
+}
+.rowD1{
+  margin-left: 25%;
+  margin-top: 30rem;
+}
+.colA{
+  margin-top: 10rem;
+}
+.profileName{
+  font-size: 2.5rem;
+  margin-left: 10%;
 }
