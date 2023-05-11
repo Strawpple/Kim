@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar{
+  background: transparent;
+}
+#logo{
+  width: 10rem;
+}
+#profile{
+  width: 15rem;
+  height: 20rem;
+}
